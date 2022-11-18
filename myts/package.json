@@ -27,7 +27,7 @@
     "@types/js-cookie": "^2.2.2",
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-typescript": "^3.10.0",
-    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-service": "^5.0.8",
     "les": "^1.0.1",
     "less-loader": "^5.0.0",
     "sass": "^1.18.0",
